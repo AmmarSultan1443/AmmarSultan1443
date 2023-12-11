@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmmarSultan1443
 - 👀 I’m interested in computer sciences
-- 🌱 I’m currently learning mathematics and computer sciences in the Polydisciplinary faculty of Khouribga
+- 🌱 I’m currently learning IT on my own.
 - 💞️ I’m looking to collaborate on IT projects 
 - 📫 How to reach me, is by my academic email address ammar.sultan@usms.ac.ma
 
